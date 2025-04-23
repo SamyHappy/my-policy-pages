@@ -8,8 +8,8 @@ You can view the pages here:
 
 ## 📄 What’s Included
 
-- `privacy-policy.html` – My app’s privacy policy
-- `terms-of-service.html` – My app’s terms of service
+- [privacy-policy.html](https://SamyHappy.github.io/my-policy-pages/privacy-policy.html) – My app’s privacy policy
+- [terms-of-service.html](https://SamyHappy.github.io/my-policy-pages/terms-of-service.html) – My app’s terms of service
 
 ## 🚀 Why?
 This project is part of my setup for using APIs like the Twitter API. I needed publicly available policy links required during the app registration process.
